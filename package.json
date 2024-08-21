@@ -14,7 +14,7 @@
   "author": "lizheming<i@imnerd.org>",
   "main": "index.js",
   "dependencies": {
-    "@waline/vercel": "https://github.com/HD-19-working/waline-vercel.git",
+    "@waline/vercel": "git+https://github.com/HD-19-working/waline-vercel.git",
     "thinkjs": "^3.2.15"
   }
 }
