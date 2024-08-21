@@ -1,2 +1,0 @@
-# waline-cloudbase
-waline/cloudbase
